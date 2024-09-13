@@ -1,6 +1,6 @@
-# real-time-pose-based-gaming
+# Real Time Pose Based Gaming
 
-## methodology
+## Methodology
 - define set of distinct poses that will correspond to respective keyboard moves 
   - pose-to-action mapping
 - mediapipe
@@ -10,7 +10,7 @@
 - Matplotlib
   - Visualise the gaming environment
 
-## implementation
+## Implementation
 1. Setup and Installation:
    -  Matplotlib, PyAutoGUI, and MediaPipe.
    -  Python & vscode
@@ -34,7 +34,13 @@
 ### flowchart
 ![image](https://github.com/winterrray/real-time-pose-based-gaming/blob/main/Screenshot%202024-09-13%20150714.png)
 
-Tools Used
+
+https://github.com/user-attachments/assets/d9d0e61c-c665-49eb-b4e2-6b0e519d366e
+
+https://github.com/user-attachments/assets/f4e97fb3-94e5-4ca6-8052-d373f5662b0a
+
+
+### Tools Used
 - OpenCV
 - cvzone
 - MediaPipe
