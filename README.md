@@ -31,6 +31,8 @@
 6. Game Visualization:
    - Utilize Matplotlib to create visualizations for the gaming environment.
 
+### flowchart
+![image](https://github.com/winterrray/real-time-pose-based-gaming/blob/main/Screenshot%202024-09-13%20150714.png)
 
 Tools Used
 - OpenCV
